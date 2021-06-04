@@ -1,0 +1,6 @@
+!
+! Title: AdGuard AllowList
+! Last modified: 2021-06-04T07:36:51.537Z
+!
+!
+||facebook.com^
