@@ -6,4 +6,6 @@
 ||facebook.com^
 ||linkedin.com^
 ||twitter.com^
+||abs.twimg.com^
 ||messenger.com^
+||static.xx.fbcdn.net^
